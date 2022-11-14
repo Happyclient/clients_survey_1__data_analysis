@@ -1,0 +1,35 @@
+DEMOGRAPHIC
+what is the gender distribution of the respodents?##
+# pie-chart
+
+what are the primary telecom providers of the respondents?##
+# catplot
+
+which social media channels are the respondents on?##
+# horizontal histogram
+
+PERSPECTIVES
+how content are respondents with existing customer support (relative to their primary telecom providers)?
+# histogram
+
+which challenges do respondents face most in customer support (relative to their primary telecom provider)?
+# histogram
+
+what social media channels are considered best for customer support (relative to their primary telecom providers)?##
+# histogram
+
+what is the necessity of features for a trouble ticket system among respondents?
+# heatmap
+
+what is the most important experiental factor to respondents in customer support?
+#
+
+how necessary do respondents find a unichanel customer support system, than omnichannel (relative to how content they are with existing customer support)?
+#
+
+
+
+
+
+
+
